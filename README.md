@@ -189,9 +189,3 @@ forecast(auto_model, h = 12)
 
 This project provides complete practical exposure to **seasonal time series forecasting** using the USAccDeaths dataset. It demonstrates how raw monthly data can be transformed, modeled, forecasted, and evaluated using Auto ARIMA techniques for real-world analytical decision-making.
 
-## ⭐ Support
-
-If you like this project, give it a **star ⭐** on GitHub and connect for more analytics projects.
-
-```
-```
