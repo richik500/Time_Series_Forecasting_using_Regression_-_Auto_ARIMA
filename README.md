@@ -6,7 +6,7 @@ This project demonstrates **Time Series Forecasting using Regression Based Metho
 The project covers data visualization, log transformation, trend removal, seasonal differencing, ACF/PACF diagnostics, Auto ARIMA model selection, parameter extraction, forecasting future values, and model accuracy evaluation.
 
 ## 👨‍💼 Author
-**Biswaditya07 (Biswaditya Saha)**  
+**Dipayan Saha**  
 MBA in Business Analytics
 
 ## 🛠️ Tools & Technologies Used
